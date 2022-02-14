@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "URL Tracker",
+    "action": {
+        "default_popup": "Crome_Ext.html",
+        "default_icon": "website.png"
+    },
+    "permissions":[
+        "tabs"
+    ]
+
+}
